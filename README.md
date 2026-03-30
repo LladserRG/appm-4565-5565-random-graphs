@@ -4,3 +4,5 @@ Random Graphs
 APPM 4565/5565
 
 University of Colorado Boulder, Spring 2026. Instructor: Manuel Lladser
+
+[Parent directory]([url](https://github.com/cu-applied-math))
